@@ -1,0 +1,18 @@
+.flex {
+  display: flex;
+}
+.grid {
+  display: grid;
+}
+.container {
+  width: 90%;
+  margin: auto;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.space-between {
+  justify-content: space-between;
+}
